@@ -33,7 +33,7 @@ title: Awards
     </style>
 </head>
 <div>
-<img src="/images/lnp-sc.JPG">
+<img src="images/lnp-sc.jpg">
 </div>
 <br>
 <body>
