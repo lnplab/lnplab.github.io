@@ -3,9 +3,6 @@ layout: page
 permalink: /awards/index.html
 title: Awards
 ---
-
-> Lastest Update: 20th May 2024 &nbsp; [英文版本 (English Version)](https://caihanlin.com/file/awards-zh/)
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -39,6 +36,7 @@ title: Awards
     <div>
     <img src="/images/lnp-sc.JPG" class="floatpic" width="1000" height="400">
     </div>
+<br>
     <div class="research-section">
         <h1>实验室研究方向</h1>
         <div class="research-direction">
