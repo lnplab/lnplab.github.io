@@ -34,10 +34,10 @@ title: 研究方向
 </head>
 <body>
     <div>
+        <h1>实验室研究方向</h1>
         <img src="/images/lnp-sc.jpg" alt="lnp">
     </div>
     <div class="research-section">
-        <h1>实验室研究方向</h1>
         <div class="research-direction">
         <p>我们实验室主要从事核酸纳米药物的研发，通过开发器官/组织/细胞靶向性纳米载体，将核酸（mRNA，CRISPR-Cas9，siRNA，DNA等）精准递送到病灶部位，探索核酸纳米药物在遗传性疾病、代谢性疾病和癌症等重大疾病治疗中的应用研究。主要研究方向包括：</p>
         </div>
