@@ -2,48 +2,43 @@
 layout: page
 ---
 
-# About Me
+# 邱敏实验室 
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="/images/lnp-sc.JPG" class="floatpic" width="1941" height="583">
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.
+欢迎访问 **邱敏实验室**.
 
-I am a senior undergrad majoring in EECS at Fuzhou University and Maynooth University (Combined degrees). Currently, I serve as a research assistant at the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu) and [Dr. Meng Yuan](https://www.researchgate.net/profile/Meng-Yuan-4). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at Cambridge University. Recently, I have been selected as an **AAAI UC Scholar**.
-
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
-
-## Academic Background
-
-- **Sep 2024 - Future：**Cambridge University (Incoming EE MPhil, supervised by [Prof. Ozgur B. Akan](https://ioe.eng.cam.ac.uk/directory/akan))
-- **Sep 2020 - June 2024:** Maynooth University (BSc, EECS)
-- **Sep 2020 - June 2024:** Fuzhou University (BEng, EECS)
-- **June 2022 - Nov 2022:** Cambridge University (Internship)
+我们致力于开发基于核酸的治疗方法，并通过合成脂质纳米粒子来实现这一目标。我们的研究团队由充满热情和创新精神的科学家组成，专注于探索前沿生物技术，推动医学进步。无论是RNA疫苗、基因治疗还是其他核酸药物，我们都在不断努力，为改善人类健康做出贡献。欢迎访问我们的实验室主页，了解更多关于我们最新研究进展和成果的信息。
 
 ---
 
-## Research Interests
+## 重点成果
 
-- Internet of Everything
-- Cyber-Physical System
-- Industrial Informatics
-- Applied Machine Learning
-- [My latest research proposal (Dec 2023)](https://caihanlin.com/file/proposal-2023.pdf)🔗
-
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+- Qiu, M.#; Tang, Y.#,*, Chen, J. #; Muriph, R.; Ye, Z.; Huang, C.; Evans, J.; Henske, E.*; Xu, Q.*, Lung-selected mRNA delivery of synthetic lipid nanoparticles for the treatment of pulmonary lymphangioleiomyomatosis. Proc. Natl. Acad. Sci. U. S. A. 2022, 119, e2116271119. ESI Highly Cited Paper.
+- Qiu, M.#; Glass, Z.#; Chen, J.; Haas, M.; Jin, X.; Zhao, X.; Rui, X.; Ye, Z.; Li, Y.; Zhang, F; Xu, Q.*, Lipid nanoparticle-mediated codelivery of Cas9 mRNA and single guide RNA achieves liver-specific in vivo genome editing of Angptl3. Proc. Natl. Acad. Sci. U. S. A. 2021, 118, e2020401118. ESI Highly Cited Paper. 
 
 ---
 
-## News and Updates
+## 最新动态
 
-- **May 2024：**My undergraduate thesis won the Best Project Award (Top 1/300) 🎉
-- **April 2024：**Our work *BLEGuard* has been accepted to [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/) as a poster paper. See you in Japan!
-- **March 2024：**Very excited to get a MPhil offer from Engineering department at Cambridge University!
-- **Dec 2023：**Very excited to be selected as [AAAI-24 UC Scholar](https://aaai.org/aaai-conference/undergraduate-consortium-program/). See you in Canada!
-- **Dec 2023：**Got a MSc offer from the physics department of Imperial College London.
-- **Aug 2023：**Happy to be awarded the FEPG Scholarship.
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Collected the Finalist Award in MCM 2023 (Top 1%).
-- **Jun 2022：**Started research programme at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò.
+- **05-2024：**xxx论文发表 🎉
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thrilled to be an AAAI-UC Scholar at <a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a>, thanks to <a href="https://twitter.com/hashtag/AAAI?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI</a> &amp; <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> for the sponsorship. Grateful for the knowledge gained and new friendships formed.<br><br>Wonderful trip in Vancouver. Looking forward to staying connected with all.<a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a> <a href="https://twitter.com/hashtag/Vancouver?src=hash&amp;ref_src=twsrc%5Etfw">#Vancouver</a> <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> <a href="https://t.co/wUQUp8XlSM">pic.twitter.com/wUQUp8XlSM</a></p>&mdash; Hanlin CAI (seeking a PhD position 2025) (@lancecai2002) <a href="https://twitter.com/lancecai2002/status/1762210025173344260?ref_src=twsrc%5Etfw">February 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[//]: # (- **April 2024：**Our work *BLEGuard* has been accepted to [MobiSys 2024]&#40;https://www.sigmobile.org/mobisys/2024/&#41; as a poster paper. See you in Japan!)
+
+[//]: # (- **March 2024：**Very excited to get a MPhil offer from Engineering department at Cambridge University!)
+
+[//]: # (- **Dec 2023：**Very excited to be selected as [AAAI-24 UC Scholar]&#40;https://aaai.org/aaai-conference/undergraduate-consortium-program/&#41;. See you in Canada!)
+
+[//]: # (- **Dec 2023：**Got a MSc offer from the physics department of Imperial College London.)
+
+[//]: # (- **Aug 2023：**Happy to be awarded the FEPG Scholarship.)
+
+[//]: # (- **May 2023：**Happy to be awarded the XiamenAir Scholarship.)
+
+[//]: # (- **May 2023：**Collected the Finalist Award in MCM 2023 &#40;Top 1%&#41;.)
+
+[//]: # (- **Jun 2022：**Started research programme at [Cambridge AI Group]&#40;https://www.cl.cam.ac.uk/research/ai/&#41;, advised by Prof. Pietro Liò.)
+
+[//]: # (<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thrilled to be an AAAI-UC Scholar at <a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a>, thanks to <a href="https://twitter.com/hashtag/AAAI?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI</a> &amp; <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> for the sponsorship. Grateful for the knowledge gained and new friendships formed.<br><br>Wonderful trip in Vancouver. Looking forward to staying connected with all.<a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a> <a href="https://twitter.com/hashtag/Vancouver?src=hash&amp;ref_src=twsrc%5Etfw">#Vancouver</a> <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> <a href="https://t.co/wUQUp8XlSM">pic.twitter.com/wUQUp8XlSM</a></p>&mdash; Hanlin CAI &#40;seeking a PhD position 2025&#41; &#40;@lancecai2002&#41; <a href="https://twitter.com/lancecai2002/status/1762210025173344260?ref_src=twsrc%5Etfw">February 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>)
 
