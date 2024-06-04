@@ -26,7 +26,7 @@ layout: page
             margin: 20px;
         }
         .image {
-            max-width: 30%
+            max-width: 180px
             height: auto;
             margin: 10px;
             border: 1px solid #ccc;
