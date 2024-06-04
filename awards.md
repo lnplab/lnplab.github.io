@@ -3,6 +3,9 @@ layout: page
 permalink: /awards/index.html
 title: Awards
 ---
+<div>
+    <img src="/images/lnp-sc.jpg" alt="lnp">
+</div>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
