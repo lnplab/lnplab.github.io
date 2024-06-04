@@ -26,7 +26,7 @@ layout: page
             margin: 20px;
         }
         .image {
-            max-width: 200px; /* Adjust image width as needed */
+            max-width: 180px; /* Adjust image width as needed */
             height: auto;
             margin: 10px;
             border: 1px solid #ccc;
