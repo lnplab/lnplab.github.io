@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/index.html
-title: Publications
+title: 研究成果
 ---
 
 > 更新时间: 2024年6月4日&nbsp; 
@@ -27,7 +27,7 @@ title: Publications
     </style>
 </head>
 <body>
-    <h1>实验室发表文章</h1>
+    <h1>研究成果</h1>
     <ul class="publication-list">
         <li class="publication">
             <span class="publication-title">Fu, M.#; Han, X.#; Chen B.; Guo, L.; Zhong, L.; Hu, P.; Pan, Y.; Qiu, M.*; Cao, P.*; Chen, J*</span>, Cancer treatment: from traditional Chinese herbal medicine to the liposome delivery system. <em>Acta Materia Medica</em> 2022, 1(4), 486-506.

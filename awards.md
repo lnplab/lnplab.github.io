@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /awards/index.html
-title: Awards
+title: 研究方向
 ---
 <head>
     <meta charset="UTF-8">
