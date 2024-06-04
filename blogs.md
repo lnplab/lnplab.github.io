@@ -1,54 +1,54 @@
 ---
 layout: page
 permalink: /blogs/index.html
-title: Blogs
+title: 联系我们
 ---
-
-## Chinese Blogs
-
-### 2024
-
-- [AAAI 2024 温哥华参会实录](https://caihanlin.com/blogs/aaai-24/)
-- [24Fall，英国硕士项目申请实录](https://caihanlin.com/blogs/24fall/)
-
-### 2023
-
-- [21岁，何妨吟啸且徐行🎂](https://caihanlin.com/blogs/21yrs)<br>
-- [极简风Jekyll个人网站搭建指南](https://caihanlin.com/blogs/web)<br>
-- [本科生数学建模竞赛指南](https://caihanlin.com/blogs/team2023)<br>
-- [海外暑研申请指南](https://caihanlin.com/blogs/summer-res)<br>
-
-### 2022
-
-- [20岁，宽心且看月中桂🎂](https://caihanlin.com/blogs/20yrs)<br>
-- [Cambridge暑研回忆录](https://caihanlin.com/blogs/cambridge/)<br>
-- [暂停、暂停、暂停](https://caihanlin.com/blogs/stop/)
-
-### 2021
-
-- [19岁，山高路亦远🎂](https://caihanlin.com/blogs/19yrs)<br>
-- [星野学社实习回忆录](https://caihanlin.com/blogs/star)
-
-### 2020
-
-- [18岁，缓慢受锤的黄金年代🎂](https://caihanlin.com/blogs/18yrs)<br>
-- [本科博客，笔记，回忆录](https://mieclance.club/)
-
-<br>
-
-## Leave a Message
-
-<br>
-
-{% include disqus.html %} 
-
-<br>
-
-## Web Star History
-
-- [Leave a star if you like it 🥰](https://github.com/GuangLun2000/GuangLun2000.github.io) 
-- 如果你喜欢这个站点，请为我的[Github仓库](https://github.com/GuangLun2000/GuangLun2000.github.io)留下一个Star吧
-
-<br>[![Star History Chart](https://api.star-history.com/svg?repos=GuangLun2000/GuangLun2000.github.io&type=Date)](https://star-history.com/#GuangLun2000/GuangLun2000.github.io&Date)
-
-<br>
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>联系邱敏老师</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        .contact-section {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        h1 {
+            text-align: center;
+        }
+        .contact-info {
+            margin-bottom: 30px;
+        }
+        .contact-info h2 {
+            color: #007bff;
+        }
+        .contact-info p {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="contact-section">
+        <h1>联系我们</h1>
+            <p>邱敏课题组拟长期开展生物医学工程、材料科学与工程，细胞和免疫治疗等交叉学科的基础与应用基础研究。请有意向加入本课题组的博士后、博士生、硕士生或本科生，直接联系我们。</p>
+        <div class="contact-info">
+            <h3>联系人</h3>
+            <p>邱敏老师</p>
+        </div>
+        <div class="contact-info">
+            <h3>办公地址</h3>
+            <p>上海市浦东新区金科路4560号金创大厦2号楼1219室</p>
+        </div>
+        <div class="contact-info">
+            <h3>电子邮件</h3>
+            <p>Email：<a href="mailto:mqiu@fudan.edu.cn">mqiu@fudan.edu.cn</a></p>
+        </div>
+    </div>
+</body>
+</html>
