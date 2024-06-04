@@ -14,7 +14,7 @@ title: 团队成员
         }
         .container img {
             width: 100%;
-            max-width: 480px; /* 调整图像的最大宽度 */
+            max-width: 350px; /* 调整图像的最大宽度 */
             height: auto;
             margin-right: 60px; /* 图片与文字之间的间距 */
         }

@@ -3,7 +3,6 @@ layout: page
 permalink: /blogs/index.html
 title: 联系我们
 ---
-<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
