@@ -5,15 +5,15 @@ title: Qiu Lab
 url: https://lnplab.github.io
 
 # Owner/author information
-owner:
-  name: 邱敏实验室
-  avatar: fudan_logo.jpg
-  # bio: Two roads diverged in woods, I took the one less traveled by.
-  email: mqiu@fudan.edu.cn
+#owner:
+#  name: 邱敏实验室
+#  avatar: "fudan_logo.jpg"
+#  # bio: Two roads diverged in woods, I took the one less traveled by.
+#  email: mqiu@fudan.edu.cn
 #  cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
 #  # Social networking links are used in author-bio sidebar. Update and remove as you like.
 #  twitter: lancecai2002
-  github: lnplab
+#  github: lnplab
 #  linkedin: hanlincai
 #  scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
 #  bilibili: 594030035
@@ -44,8 +44,8 @@ links:
     url: /publications/
   - title: 研究方向
     url: /awards/
-  - title: 实验室新闻
-    url: /hobbies/
+#  - title: 实验室新闻
+#    url: /hobbies/
   - title: 联系我们
     url: /blogs/
 

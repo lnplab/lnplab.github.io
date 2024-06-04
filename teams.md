@@ -6,15 +6,17 @@ title: 团队成员
 
 ## 课题组长
 <head>
-    <title>实验室主页</title>
+    <title>课题组长</title>
     <style>
         .container {
             display: flex;
             align-items: center; /* 垂直居中对齐 */
         }
         .container img {
-            max-width: 720px; /* 图片的最大宽度 */
-            margin-right: 50px; /* 图片与文字之间的间距 */
+            width: 100%;
+            max-width: 480px; /* 调整图像的最大宽度 */
+            height: auto;
+            margin-right: 60px; /* 图片与文字之间的间距 */
         }
         .container .text {
             max-width: 600px; /* 文字部分的最大宽度 */
@@ -28,7 +30,7 @@ title: 团队成员
 </head>
 <body>
     <div class="container">
-        <img src="/images/teams/qiumin.jpg" width="720" height="480" alt="邱敏">
+        <img src="/images/teams/qiumin.jpg" alt="邱敏">
         <div class="text">
             <h1>邱敏</h1>
             <p>青年研究员，博士生导师<br>复旦大学人类表型组研究院<br>张江mRNA国际创新中心</p>
@@ -49,7 +51,7 @@ title: 团队成员
         align-items: center; /* 垂直居中对齐 */
         margin: 20px;
     }
-    .container img {
+    .container2 img {
         max-width: 18%; /* 设置每张图片的最大宽度，以确保5张图片在一行内显示 */
         height: auto; /* 使图片保持原始比例 */
     }
@@ -86,5 +88,4 @@ title: 团队成员
 <div>
 <img src="/images/teams/group1.jpg" alt="图片1">
 </div>
-[//]: # (> Our group website: [https://fzuiot.site/]&#40;https://fzuiot.site/&#41;)
 
