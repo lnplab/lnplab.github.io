@@ -4,7 +4,7 @@ layout: page
 
 # 邱敏实验室 
 
-<img src="/images/lnp-sc.JPG" class="floatpic" width="1941" height="583">
+<img src="/images/lnp-sc.JPG" class="floatpic" width="1200" height="600">
 
 欢迎访问 **邱敏实验室**.
 

@@ -66,22 +66,6 @@ title: 团队成员
         <img src="/images/teams/ljh.jpg" alt="图片5">
     </div>
 
-[//]: # (## 成员动态)
-
-
-
-[//]: # (## 往期成员)
-
-[//]: # (- **Co-founders:** Hanlin Cai, Jiaqi Hu, Zheng Li)
-
-[//]: # (- **Members @2020:** )
-
-[//]: # (- **Members @2021:** )
-
-[//]: # (- **Members @2022:** )
-
-[//]: # (- **Members @2023:** [Join us!]&#40;https://fzuiot.site/english/&#41;<br>)
-
 ---
 
 ## 成员照片
