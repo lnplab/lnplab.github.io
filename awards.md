@@ -32,11 +32,10 @@ title: Awards
         }
     </style>
 </head>
-<div>
-<img src="images/lnp-sc.jpg">
-</div>
-<br>
 <body>
+    <div>
+    <img src="images/lnp-sc.jpg"> <br>
+    </div>
     <div class="research-section">
         <h1>实验室研究方向</h1>
         <div class="research-direction">
