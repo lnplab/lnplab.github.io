@@ -27,7 +27,7 @@ layout: page
         }
         .image {
             width: 200px; /* Adjust image width as needed */
-            height: 200px; /* Adjust image height as needed */
+            height: auto;
             margin: 10px;
             border: 1px solid #ccc;
         }
@@ -60,11 +60,13 @@ layout: page
         <div class="image">
             <img src="images/article/article3.jpg" alt="Image 3 Description">
             <div class="image-info">
-                <h5 class="image-title"><a href="https://pubs.acs.org/doi/10.1021/acs.accounts.1c00500">Developing Biodegradable Lipid Nanoparticles for Intracellular mRNA Delivery and Genome Editing</a></h5>
+                <h5 class="image-title"><a href="https://pubs.acs.org/doi/10.1021/acs.accounts.1c00500">Developing Biodegradable Lipid Nanoparticles for Intracellular mRNA Delivery and Genome Editing</a> </h5>
             </div>
         </div>
     </div>
 </body>
+
+
 
 [//]: # (- Qiu, M.#; Tang, Y.#,*, Chen, J. #; Muriph, R.; Ye, Z.; Huang, C.; Evans, J.; Henske, E.*; Xu, Q.*, Lung-selected mRNA delivery of synthetic lipid nanoparticles for the treatment of pulmonary lymphangioleiomyomatosis. Proc. Natl. Acad. Sci. U. S. A. 2022, 119, e2116271119. ESI Highly Cited Paper.)
 
