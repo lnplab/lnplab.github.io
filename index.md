@@ -4,7 +4,7 @@ layout: page
 
 # 邱敏实验室 
 <div>
-<img src="/images/teams/group1.jpg" class="floatpic" width="1200" height="600">
+<img src="/images/teams/group1.jpg" class="floatpic" width="800" height="1000">
 </div>>
 欢迎访问 **邱敏实验室**.
 
