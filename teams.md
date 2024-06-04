@@ -1,67 +1,90 @@
 ---
 layout: page
 permalink: /teams/index.html
-title: Teams
+title: 团队成员
 ---
 
-## Motivation
+## 课题组长
+<head>
+    <title>实验室主页</title>
+    <style>
+        .container {
+            display: flex;
+            align-items: center; /* 垂直居中对齐 */
+        }
+        .container img {
+            max-width: 720px; /* 图片的最大宽度 */
+            margin-right: 50px; /* 图片与文字之间的间距 */
+        }
+        .container .text {
+            max-width: 600px; /* 文字部分的最大宽度 */
+            margin-bottom: 150px;
+            font-size: 19px; /* 设置文字的大小 */
+        }
+        .container .text h1 {
+            font-size: 24px; /* 设置标题的大小 */
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="/images/teams/qiumin.jpg" width="720" height="480" alt="邱敏">
+        <div class="text">
+            <h1>邱敏</h1>
+            <p>青年研究员，博士生导师<br>复旦大学人类表型组研究院<br>张江mRNA国际创新中心</p>
+        </div>
+    </div>
+</body>
 
-As a youth from southern Fujian (Hokkien), entrepreneurial spirit runs in my family's and my own bones. From a young age, we were instilled with the belief that one must become their own "boss" and setup their own business. My aspiration is to become a serial entrepreneur.<br>
-
----
-
-## OpenIoT Team
-
-During undergraduate, my two roommates and I co-founded a tech group called OpenIoT. With an entrepreneurial spirit in technology, we participated in numerous innovation and entrepreneurship competitions. As of 2024, the OpenIoT team has grown to include 28 official members and has accumulated a total of six national-level competition awards and over **$20000 funding**.<br>
-
-## Team News
-
-- **Jan 2024：**Our team won the Finalist Award (Top 3%) in China International College Students’ Innovation Competition.
-- **Sep 2023：**Our work [DefenderIoT](https://fzuiot.site/) has been reported by [Youth of FZU (in Chinese)](https://mp.weixin.qq.com/s/MF2NJQtEHsVwsm8Ym-l7Gg).
-- **Aug 2023：**Our team won the Best Technology Award (Top 1%) in National Youth Science Innovation Project Competition.
-- **June 2023：**Our team won a national undergraduate research training grant (about $3000).
-- **May 2023：**If you are interested in the IoT, robotics, or AIGC, welcome to [join us!](https://fzuiot.site/english/)<br>
-
----
-
-## Our Fundings
-
-- Project: DefenderIoT — Leading the New Generation of Industrial Inspection<br>**Funding $2000** (Grant No. 20230357)<br>China International College Students’ Innovation Competition Award<br>Project Leader & Product Manager (2024)<br><br>
-- Project: Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot<br>**Funding $3000** (Grant No. 202310386056)<br>China National Undergraduate Innovation and Entrepreneurship Training Program<br>Project Leader & Student Investigator (2023-2024)<br><br>
-- Project: Community Monitoring System based on Smart IoT and Inspection Vehicle<br>**Funding $1000** (Grant No. 2023080208)<br>National Youth Science Innovation Project Competition Award<br>Project Leader & Student Investigator (2023)<br><br>
-
----
-
-## Team Members
-
-- **Co-founders:** Hanlin Cai, Jiaqi Hu, Zheng Li
-- **Members @2020:** Linshi Li, Yuchen Fang, Shuying Liu, Xiang Fang, Jiankun Li, Xinguo Wang, Miaolan Zhou, Chaoyue Chen
-- **Members @2021:** Wenzhuo Fan, Jiacheng Huang, Xun Sun, Yujie Jiang, Zhongheng Sun, Yuxuan Zheng, Hongming Chen
-- **Members @2022:** Wenjing Chen, Roubing Yao, Yuxin Luo, Han Huang, Yang Lu, Jiali Su, Yanzhuo Gao, Yuzhuo Shi
-- **Members @2023:** [Join us!](https://fzuiot.site/english/)<br>
+邱敏博士目前是复旦大学人类表型组研究院青年研究员、博士生导师，上海张江mRNA国际创新中心研究团队成员。2013年毕业于青岛科技大学获高分子材料与工程和英语双学士学位；2018年在苏州大学获高分子化学与物理专业博士学位；2018年至2021年在美国塔夫茨大学生物医学工程系从事博士后研究。2021年12月加入复旦大学人类表型组研究院组建核酸纳米药物研究课题组，主要从事新型组织和细胞靶向脂质纳米颗粒的开发及其在生物医学中的应用研究。
 
 ---
 
-## Some Group Photos
+## 团队成员
 
-> Our group website: [https://fzuiot.site/](https://fzuiot.site/)
+<style>
+    .container2 {
+        display: flex;
+        justify-content: space-between; /* 让图片之间有间距 */
+        align-items: center; /* 垂直居中对齐 */
+        margin: 20px;
+    }
+    .container img {
+        max-width: 18%; /* 设置每张图片的最大宽度，以确保5张图片在一行内显示 */
+        height: auto; /* 使图片保持原始比例 */
+    }
+</style>
 
+<body>
+    <div class="container2">
+        <img src="/images/teams/lx.jpg" alt="图片1">
+        <img src="/images/teams/byr.jpg" alt="图片2">
+        <img src="/images/teams/zcc.jpg" alt="图片3">
+        <img src="/images/teams/yqm.jpg" alt="图片4">
+        <img src="/images/teams/ljh.jpg" alt="图片5">
+    </div>
+
+[//]: # (## 成员动态)
+
+
+
+[//]: # (## 往期成员)
+
+[//]: # (- **Co-founders:** Hanlin Cai, Jiaqi Hu, Zheng Li)
+
+[//]: # (- **Members @2020:** )
+
+[//]: # (- **Members @2021:** )
+
+[//]: # (- **Members @2022:** )
+
+[//]: # (- **Members @2023:** [Join us!]&#40;https://fzuiot.site/english/&#41;<br>)
+
+---
+
+## 成员照片
 <div>
-<img src="https://caihanlin.com/images/teams/teams1.jpg">
+<img src="/images/teams/group1.jpg" alt="图片1">
 </div>
-<br>
+[//]: # (> Our group website: [https://fzuiot.site/]&#40;https://fzuiot.site/&#41;)
 
-<div>
-<img src="https://caihanlin.com/images/teams/teams2.jpg">
-</div>
-<br>
-
-<div>
-<img src="https://caihanlin.com/images/teams/teams.jpg">
-</div>
-<br>
-
-<div>
-<img src="https://caihanlin.com/images/teams/teams4.jpg">
-</div>
-<br>
