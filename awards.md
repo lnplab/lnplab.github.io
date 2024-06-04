@@ -34,7 +34,7 @@ title: Awards
 </head>
 <body>
     <div>
-    <img src="images/lnp-sc.jpg"> <br>
+        <img src="/images/lnp-sc.jpg" alt="lnp">
     </div>
     <div class="research-section">
         <h1>实验室研究方向</h1>
