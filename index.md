@@ -26,7 +26,8 @@ layout: page
             margin: 20px;
         }
         .image {
-            max-width: 180px
+            width: 100%;
+            max-width: 2000px; /* 调整图像的最大宽度 */
             height: auto;
             margin: 10px;
             border: 1px solid #ccc;
