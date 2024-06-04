@@ -36,7 +36,7 @@ layout: page
         }
         .image-title {
             font-weight: bold;
-            margin-bottom: 5px;
+            margin-bottom: 3px;
         }
         .image-description {
             font-size: 0.9em;
