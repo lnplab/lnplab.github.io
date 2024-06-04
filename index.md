@@ -4,7 +4,7 @@ layout: page
 
 # 邱敏实验室 
 <div>
-<img src="/images/teams/group1.jpg" class="floatpic" width="800" height="1000">
+<img src="/images/teams/group1.jpg" class="floatpic" width="1500" height="800">
 </div>>
 欢迎访问 **邱敏实验室**.
 
@@ -13,16 +13,68 @@ layout: page
 ---
 
 ## 重点成果
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Gallery with Titles and Descriptions</title>
+    <style>
+        .image-container {
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            align-items: flex-start;
+            margin: 20px;
+        }
+        .image {
+            width: 200px; /* Adjust image width as needed */
+            height: 200px; /* Adjust image height as needed */
+            margin: 10px;
+            border: 1px solid #ccc;
+        }
+        .image-info {
+            text-align: center;
+        }
+        .image-title {
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+        .image-description {
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+    <div class="image-container">
+        <div class="image">
+            <img src="images/article/article1.jpg" alt="article1">
+            <div class="image-info">
+                <h5 class="image-title"><a href="https://www.pnas.org/doi/10.1073/pnas.2116271119">Lung-selective mRNA delivery of synthetic lipid nanoparticles for the treatment of pulmonary lymphangioleiomyomatosis</a> </h5>>
+            </div>
+        </div>
+        <div class="image">
+            <img src="images/article/article2.jpg" alt="Image 2 Description">
+            <div class="image-info">
+                <h5 class="image-title"><a href="https://www.pnas.org/doi/full/10.1073/pnas.2020401118">Lipid nanoparticle-mediated codelivery of Cas9 mRNA and single-guide RNA achieves liver-specific in vivo genome editing of Angptl3</a> </h5>>
+            </div>
+        </div>
+        <div class="image">
+            <img src="images/article/article3.jpg" alt="Image 3 Description">
+            <div class="image-info">
+                <h5 class="image-title"><a href="https://pubs.acs.org/doi/10.1021/acs.accounts.1c00500">Developing Biodegradable Lipid Nanoparticles for Intracellular mRNA Delivery and Genome Editing</h5>
+            </div>
+        </div>
+    </div>
+</body>
 
-- Qiu, M.#; Tang, Y.#,*, Chen, J. #; Muriph, R.; Ye, Z.; Huang, C.; Evans, J.; Henske, E.*; Xu, Q.*, Lung-selected mRNA delivery of synthetic lipid nanoparticles for the treatment of pulmonary lymphangioleiomyomatosis. Proc. Natl. Acad. Sci. U. S. A. 2022, 119, e2116271119. ESI Highly Cited Paper.
-- Qiu, M.#; Glass, Z.#; Chen, J.; Haas, M.; Jin, X.; Zhao, X.; Rui, X.; Ye, Z.; Li, Y.; Zhang, F; Xu, Q.*, Lipid nanoparticle-mediated codelivery of Cas9 mRNA and single guide RNA achieves liver-specific in vivo genome editing of Angptl3. Proc. Natl. Acad. Sci. U. S. A. 2021, 118, e2020401118. ESI Highly Cited Paper. 
+[//]: # (- Qiu, M.#; Tang, Y.#,*, Chen, J. #; Muriph, R.; Ye, Z.; Huang, C.; Evans, J.; Henske, E.*; Xu, Q.*, Lung-selected mRNA delivery of synthetic lipid nanoparticles for the treatment of pulmonary lymphangioleiomyomatosis. Proc. Natl. Acad. Sci. U. S. A. 2022, 119, e2116271119. ESI Highly Cited Paper.)
 
----
+[//]: # (- Qiu, M.#; Glass, Z.#; Chen, J.; Haas, M.; Jin, X.; Zhao, X.; Rui, X.; Ye, Z.; Li, Y.; Zhang, F; Xu, Q.*, Lipid nanoparticle-mediated codelivery of Cas9 mRNA and single guide RNA achieves liver-specific in vivo genome editing of Angptl3. Proc. Natl. Acad. Sci. U. S. A. 2021, 118, e2020401118. ESI Highly Cited Paper. )
+[//]: # (## 最新动态)
 
-## 最新动态
+[//]: # ()
+[//]: # (- **05-2024：**xxx论文发表 🎉)
 
-- **05-2024：**xxx论文发表 🎉
-
+[//]: # ()
 
 [//]: # (- **April 2024：**Our work *BLEGuard* has been accepted to [MobiSys 2024]&#40;https://www.sigmobile.org/mobisys/2024/&#41; as a poster paper. See you in Japan!)
 
