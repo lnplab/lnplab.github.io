@@ -34,7 +34,7 @@ title: Awards
 </head>
 <body>
     <div>
-    <img src="/images/lnp-sc.JPG" class="floatpic" width="1000" height="400">
+    <img src="/images/lnp-sc.JPG">
     </div>
 <br>
     <div class="research-section">

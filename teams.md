@@ -16,7 +16,7 @@ title: 团队成员
             width: 100%;
             max-width: 350px; /* 调整图像的最大宽度 */
             height: auto;
-            margin-right: 60px; /* 图片与文字之间的间距 */
+            margin-right: 30px; /* 图片与文字之间的间距 */
         }
         .container .text {
             max-width: 600px; /* 文字部分的最大宽度 */
