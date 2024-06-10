@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/index.html
-title: 研究成果
+title: Publication
 ---
 <h1>研究成果</h1>
 > 更新时间: 2024年6月4日&nbsp; 

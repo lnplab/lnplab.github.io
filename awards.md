@@ -1,12 +1,11 @@
 ---
 layout: page
 permalink: /awards/index.html
-title: 研究方向
+title: Research
 ---
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>实验室研究方向</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -21,7 +20,7 @@ title: 研究方向
             text-align: center;
         }
         .research-direction {
-            margin-bottom: 30px;
+            margin-bottom: 26px;
         }
         .research-direction h2 {
             color: #007bff;
@@ -34,25 +33,26 @@ title: 研究方向
 </head>
 <body>
     <div>
-        <h1>实验室研究方向</h1>
+        <h1>Research</h1>
         <img src="/images/lnp-sc.jpg" alt="lnp">
     </div>
     <div class="research-section">
         <div class="research-direction">
-        <p>我们实验室主要从事核酸纳米药物的研发，通过开发器官/组织/细胞靶向性纳米载体，将核酸（mRNA，CRISPR-Cas9，siRNA，DNA等）精准递送到病灶部位，探索核酸纳米药物在遗传性疾病、代谢性疾病和癌症等重大疾病治疗中的应用研究。主要研究方向包括：</p>
+        <p>The Qiu Lab at Fudan University focuses on the development of the next-generation of non-viral nanoparticle delivery systems and their application in the treatment of a variety of diseases, including cancer and inherited disease. The specific research topics of our lab include:</p>
         </div>
-        <div class="research-direction">
-            <h3>1. 组织和细胞特异性纳米递送系统的设计开发</h3>
-            <p>通过设计和开发脂质纳米颗粒和功能性高分子纳米载体，实现组织和细胞特异性的核酸递送。</p>
-        </div>
-        <div class="research-direction">
-            <h3>2. 核酸靶向递送及生物医学应用</h3>
-            <p>探索各种核酸（如mRNA、DNA、siRNA、CRISPR-Cas基因编辑工具）在疾病治疗中的靶向递送机制和生物医学应用。</p>
-        </div>
-        <div class="research-direction">
-            <h3>3. 纳米蛋白冠的检测分析方法及其化学生物学效应</h3>
-            <p>研究纳米蛋白冠的检测分析方法，探究其在核酸递送过程中的化学生物学效应。</p>
-        </div>
+    <div class="research-direction">
+    <h3>1. Design and Development of Tissue and Cell-Specific Nano Delivery Systems</h3>
+    <p>Designing and developing lipid nanoparticles and functional polymeric nanocarriers to achieve tissue and cell-specific nucleic acid delivery.</p>
     </div>
+    <div class="research-direction">
+    <h3>2. Targeted Delivery of Nucleic Acids and Biomedical Applications</h3>
+    <p>Exploring the mechanisms and biomedical applications of targeted delivery of various nucleic acids (such as mRNA, DNA, siRNA, and CRISPR-Cas gene editing tools) in disease treatment.</p>
+    </div>
+    <div class="research-direction">
+    <h3>3. Detection and Analysis Methods of Nano-Protein Corona and Its Chemobiological Effects</h3>
+    <p>Studying the detection and analysis methods of nano-protein corona and investigating its chemobiological effects in the process of nucleic acid delivery.</p>
+    </div>
+</div>
+
 </body>
 

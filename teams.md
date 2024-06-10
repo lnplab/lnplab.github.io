@@ -1,12 +1,12 @@
 ---
 layout: page
 permalink: /teams/index.html
-title: 团队成员
+title: Team
 ---
 
-## 课题组长
+## PRINCIPAL INVESTIGATOR
 <head>
-    <title>课题组长</title>
+    <title>PRINCIPAL INVESTIGATOR</title>
     <style>
         .container {
             display: flex;
@@ -32,16 +32,16 @@ title: 团队成员
     <div class="container">
         <img src="/images/teams/qiumin.jpg" alt="邱敏">
         <div class="text">
-            <h1>邱敏</h1>
-            <p>青年研究员，博士生导师<br>复旦大学人类表型组研究院<br>张江mRNA国际创新中心</p>
+            <h1>Min Qiu</h1>
+            <p>Human Phenome Institute, Fudan University<br>Member, mRNA Innovation and Translation Center<br>
         </div>
     </div>
 </body>
 
-邱敏博士目前是复旦大学人类表型组研究院青年研究员、博士生导师，上海张江mRNA国际创新中心研究团队成员。2013年毕业于青岛科技大学获高分子材料与工程和英语双学士学位；2018年在苏州大学获高分子化学与物理专业博士学位；2018年至2021年在美国塔夫茨大学生物医学工程系从事博士后研究。2021年12月加入复旦大学人类表型组研究院组建核酸纳米药物研究课题组，主要从事新型组织和细胞靶向脂质纳米颗粒的开发及其在生物医学中的应用研究。
+Min Qiu is a principal investigator in the Human Phenome Institute at Fudan University, and member of the mRNA Innovation and Translation Center. He obtained his Doctoral Degree at Soochow University and did his postdoctoral training in the lab of Professor Qiaobing Xu in the department of Biomedical Engineering at Tufts University. In 2021, Dr. Min Qiu joined the Human Phenome Institute, where he runs an interdisciplinary research group focused on developing tissue and/or cell targeting lipid nanoparticles for application to vaccines, gene editing, immuno and cellular therapeutics.
 
 
-## 团队成员 ##
+## Team ##
 
 <style>
     .container2 {
@@ -67,7 +67,7 @@ title: 团队成员
 
 ---
 
-## 成员照片
+## Photos
 <div>
 <img src="/images/teams/group1.jpg" alt="图片1">
 </div>
