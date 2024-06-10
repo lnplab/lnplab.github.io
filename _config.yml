@@ -36,17 +36,17 @@ owner:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: 首页
+  - title: Home
     url: /
-  - title: 团队成员
+  - title: Team
     url: /teams/
-  - title: 研究成果
+  - title: Publication
     url: /publications/
-  - title: 研究方向
+  - title: Reasearch
     url: /awards/
 #  - title: 实验室新闻
 #    url: /hobbies/
-  - title: 联系我们
+  - title: Contact
     url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
