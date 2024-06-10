@@ -26,24 +26,22 @@ We are dedicated to developing nucleic acid-based therapies, achieving this goal
     <style>
         .image-container {
             display: flex;
-            flex-direction: row;
             justify-content: center;
-            align-items: flex-start;
+            gap: 20px; /* Add space between images */
             margin: 20px;
         }
-        .image {
-            width: 100%;
-            max-width: 200px; /* 调整图像的最大宽度 */
-            height: auto;
-            margin: 10px;
-            border: 1px solid #ccc;
-        }
-        .image-info {
+        .image-item {
+            width: 200px; /* Set a fixed width for all image items */
             text-align: center;
+        }
+        .image-item img {
+            width: 100%; /* Image will take up the full width of its container */
+            height: auto; /* Maintain aspect ratio */
+            border: 1px solid #ccc;
         }
         .image-title {
             font-weight: bold;
-            margin-bottom: 3px;
+            margin: 10px 0 5px; /* Add some space around the title */
         }
         .image-description {
             font-size: 0.9em;
@@ -52,26 +50,26 @@ We are dedicated to developing nucleic acid-based therapies, achieving this goal
 </head>
 <body>
     <div class="image-container">
-        <div class="image">
+        <div class="image-item">
             <img src="images/article/article1.jpg" alt="article1">
             <div class="image-info">
-                <h5 class="image-title"><a href="https://www.pnas.org/doi/10.1073/pnas.2116271119">Lung-selective mRNA delivery of synthetic lipid nanoparticles for the treatment of pulmonary lymphangioleiomyomatosis</a> </h5>
+                <h5 class="image-title"><a href="https://www.pnas.org/doi/10.1073/pnas.2116271119">Lung-selective mRNA delivery of synthetic lipid nanoparticles for the treatment of pulmonary lymphangioleiomyomatosis</a></h5>
+                <p class="image-description">Description for Image 1</p>
             </div>
         </div>
-        <div class="image">
+        <div class="image-item">
             <img src="images/article/article2.jpg" alt="Image 2 Description">
             <div class="image-info">
-                <h5 class="image-title"><a href="https://www.pnas.org/doi/full/10.1073/pnas.2020401118">Lipid nanoparticle-mediated codelivery of Cas9 mRNA and single-guide RNA achieves liver-specific in vivo genome editing of Angptl3</a> </h5>
+                <h5 class="image-title"><a href="https://www.pnas.org/doi/full/10.1073/pnas.2020401118">Lipid nanoparticle-mediated codelivery of Cas9 mRNA and single-guide RNA achieves liver-specific in vivo genome editing of Angptl3</a></h5>
+                <p class="image-description">Description for Image 2</p>
             </div>
         </div>
-        <div class="image">
+        <div class="image-item">
             <img src="images/article/article3.jpg" alt="Image 3 Description">
             <div class="image-info">
-                <h5 class="image-title"><a href="https://pubs.acs.org/doi/10.1021/acs.accounts.1c00500">Developing Biodegradable Lipid Nanoparticles for Intracellular mRNA Delivery and Genome Editing</a> </h5>
+                <h5 class="image-title"><a href="https://pubs.acs.org/doi/10.1021/acs.accounts.1c00500">Developing Biodegradable Lipid Nanoparticles for Intracellular mRNA Delivery and Genome Editing</a></h5>
+                <p class="image-description">Description for Image 3</p>
             </div>
         </div>
     </div>
 </body>
-
-
-
