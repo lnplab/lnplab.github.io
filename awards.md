@@ -33,7 +33,7 @@ title: Research
 </head>
 <body>
     <div>
-        <h1>Research</h1>
+        <h1 style="font-size: 26px;">Research</h1>
         <img src="/images/lnp-sc.jpg" alt="lnp">
     </div>
     <div class="research-section">
