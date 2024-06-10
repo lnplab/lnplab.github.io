@@ -33,7 +33,7 @@ title: Team
         <img src="/images/teams/qiumin.jpg" alt="邱敏">
         <div class="text">
             <h1>Min Qiu</h1>
-            <p>Human Phenome Institute, Fudan University<br>Member, mRNA Innovation and Translation Center<br>
+            <p>Human Phenome Institute, Fudan University<br>Member, mRNA Innovation and Translation Center<p>
         </div>
     </div>
 </body>
