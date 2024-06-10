@@ -1,8 +1,6 @@
 ---
 layout: page
 ---
-
-# Qiu Lab
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -38,8 +36,7 @@ layout: page
 
 
 ---
-
-## Highlight
+<h1>Highlight</h1>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -75,21 +72,21 @@ layout: page
             <img src="images/article/article1.jpg" alt="article1">
             <div class="image-info">
                 <h5 class="image-title"><a href="https://www.pnas.org/doi/10.1073/pnas.2116271119">Lung-selective mRNA delivery of synthetic lipid nanoparticles for the treatment of pulmonary lymphangioleiomyomatosis</a></h5>
-                <p class="image-description">Description for Image 1</p>
+                <p class="image-description"></p>
             </div>
         </div>
         <div class="image-item">
             <img src="images/article/article2.jpg" alt="Image 2 Description">
             <div class="image-info">
                 <h5 class="image-title"><a href="https://www.pnas.org/doi/full/10.1073/pnas.2020401118">Lipid nanoparticle-mediated codelivery of Cas9 mRNA and single-guide RNA achieves liver-specific in vivo genome editing of Angptl3</a></h5>
-                <p class="image-description">Description for Image 2</p>
+                <p class="image-description"></p>
             </div>
         </div>
         <div class="image-item">
             <img src="images/article/article3.jpg" alt="Image 3 Description">
             <div class="image-info">
                 <h5 class="image-title"><a href="https://pubs.acs.org/doi/10.1021/acs.accounts.1c00500">Developing Biodegradable Lipid Nanoparticles for Intracellular mRNA Delivery and Genome Editing</a></h5>
-                <p class="image-description">Description for Image 3</p>
+                <p class="image-description"></p>
             </div>
         </div>
     </div>
