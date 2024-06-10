@@ -2,14 +2,35 @@
 layout: page
 ---
 
-# Qiu Lab 
-<div>
-<img src="/images/teams/group1.jpg" class="floatpic" width="1500" height="800">
-</div>>
-
-
-We are dedicated to developing nucleic acid-based therapies, achieving this goal through the synthesis of lipid nanoparticles. Our research team, composed of passionate and innovative scientists, focuses on exploring cutting-edge biotechnology to advance medical progress. Whether it's RNA vaccines, gene therapy, or other nucleic acid drugs, we are constantly striving to contribute to improving human health. Visit our lab's homepage to learn more about our latest research developments and achievements.
-
+# Qiu Lab
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Research Team</title>
+    <style>
+        .content {
+            display: flex;
+            align-items: center;
+            margin: 20px;
+        }
+        .content img {
+            max-width: 50%; /* Ensure the image takes up to 50% of the container */
+            height: auto;
+            margin-left: 20px; /* Add some space between the image and the text */
+        }
+        .content .text {
+            max-width: 50%; /* Ensure the text takes up to 50% of the container */
+        }
+    </style>
+</head>
+<body>
+    <div class="content">
+        <div class="text">
+            <p>We are dedicated to developing nucleic acid-based therapies, achieving this goal through the synthesis of lipid nanoparticles. Our research team, composed of passionate and innovative scientists, focuses on exploring cutting-edge biotechnology to advance medical progress. Whether it's RNA vaccines, gene therapy, or other nucleic acid drugs, we are constantly striving to contribute to improving human health. Visit our lab's homepage to learn more about our latest research developments and achievements.</p>
+        </div>
+        <img src="/images/teams/group1.jpg" alt="Research Team">
+    </div>
+</body>
 
 
 
