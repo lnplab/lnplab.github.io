@@ -33,7 +33,7 @@ title: Contact
 </head>
 <body>
     <div class="contact-section">
-        <h1 style="font-size: 26px;">Contact</h1>
+        <h1 style="font-size: 32px;">Contact</h1>
             <p>We are always looking for highly motivated individuals (postdoctoral fellows and graduate students) who are passionate about science and research. If you are interested in joining our team, you are welcome to send us an email (mqiu@fudan.edu.cn) or drop by our lab to have a chat.
 </p>
         <div class="contact-info">

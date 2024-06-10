@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/index.html
 title: Publication
 ---
-<h1 style="font-size: 26px;">Publication</h1>
+<h1 style="font-size: 32px;">Publication</h1>
 > update: 06-10-2024&nbsp; 
 
 [//]: # (>  [中文版本 &#40;Chinese Version&#41;]&#40;https://caihanlin.com/file/publications-zh/&#41; )
