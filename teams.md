@@ -4,7 +4,7 @@ permalink: /teams/index.html
 title: Team
 ---
 
-<h1 style="font-size: 32px;">PRINCIPAL INVESTIGATOR</h1>
+<h1 style="font-size: 32px;">Principal Investigator</h1>
 <head>
     <style>
         .container {
@@ -18,8 +18,8 @@ title: Team
             margin-right: 20px; /* 图片与文字之间的间距 */
         }
         .container .text {
-            max-width: 600px; /* 文字部分的最大宽度 */
-            margin-bottom: 150px;
+            max-width: 700px; /* 文字部分的最大宽度 */
+            margin-bottom: 120px;
             font-size: 19px; /* 设置文字的大小 */
         }
         .container .text h1 {
