@@ -41,7 +41,6 @@ title: Team
 
 Min Qiu is a principal investigator in the Human Phenome Institute at Fudan University, and member of the mRNA Innovation and Translation Center. He obtained his Doctoral Degree at Soochow University and did his postdoctoral training in the lab of Professor Qiaobing Xu in the department of Biomedical Engineering at Tufts University. In 2021, Dr. Min Qiu joined the Human Phenome Institute, where he runs an interdisciplinary research group focused on developing tissue and/or cell targeting lipid nanoparticles for application to vaccines, gene editing, immuno and cellular therapeutics.
 
-[teams.md](teams.md)
 ## Team ##
 
 <style>
