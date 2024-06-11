@@ -17,7 +17,7 @@ layout: page
         .content img {
             width: 800px; /* Set the width of the image */
             height: auto; /* Maintain aspect ratio */
-            float: right; /* Float the image to the right */
+            float: left; /* Float the image to the left */
             margin-left: 20px; /* Add some space between the image and the text */
             margin-bottom: 20px; /* Add some space below the image */
         }
