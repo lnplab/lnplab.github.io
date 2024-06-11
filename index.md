@@ -15,7 +15,7 @@ layout: page
             position: relative;
         }
         .content img {
-            width: 30%; /* Set the width of the image */
+            width: 50%; /* Set the width of the image */
             height: auto; /* Maintain aspect ratio */
             float: right; /* Float the image to the right */
             margin-left: 20px; /* Add some space between the image and the text */
@@ -52,7 +52,7 @@ layout: page
             margin: 20px;
         }
         .image-item {
-            width: 200px; /* Set a fixed width for all image items */
+            width: 800px; /* Set a fixed width for all image items */
             text-align: center;
         }
         .image-item img {
