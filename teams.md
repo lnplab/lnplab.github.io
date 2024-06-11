@@ -4,7 +4,7 @@ permalink: /teams/index.html
 title: Team
 ---
 
-## PRINCIPAL INVESTIGATOR
+<h1>PRINCIPAL INVESTIGATOR</h1>>
 <head>
     <title>PRINCIPAL INVESTIGATOR</title>
     <style>
@@ -33,15 +33,15 @@ title: Team
         <img src="/images/teams/qiumin.jpg" alt="邱敏">
         <div class="text">
             <h1>Min Qiu</h1>
-            <p>Human Phenome Institute, Fudan University</p> 
-            <p>Member, mRNA Innovation and Translation Center</p>
+            <p style="font-size: 24px;">Human Phenome Institute, Fudan University</p> 
+            <p style="font-size: 24px;">Member, mRNA Innovation and Translation Center</p>
         </div>
     </div>
 </body>
 
 Min Qiu is a principal investigator in the Human Phenome Institute at Fudan University, and member of the mRNA Innovation and Translation Center. He obtained his Doctoral Degree at Soochow University and did his postdoctoral training in the lab of Professor Qiaobing Xu in the department of Biomedical Engineering at Tufts University. In 2021, Dr. Min Qiu joined the Human Phenome Institute, where he runs an interdisciplinary research group focused on developing tissue and/or cell targeting lipid nanoparticles for application to vaccines, gene editing, immuno and cellular therapeutics.
 
-
+[teams.md](teams.md)
 ## Team ##
 
 <style>
@@ -52,7 +52,7 @@ Min Qiu is a principal investigator in the Human Phenome Institute at Fudan Univ
         margin: 20px;
     }
     .container2 img {
-        max-width: 18%; /* 设置每张图片的最大宽度，以确保5张图片在一行内显示 */
+        max-width: 23%; /* 设置每张图片的最大宽度，以确保5张图片在一行内显示 */
         height: auto; /* 使图片保持原始比例 */
     }
 </style>
@@ -63,9 +63,13 @@ Min Qiu is a principal investigator in the Human Phenome Institute at Fudan Univ
         <img src="/images/teams/byr.jpg" alt="图片2">
         <img src="/images/teams/zcc.jpg" alt="图片3">
         <img src="/images/teams/yqm.jpg" alt="图片4">
-        <img src="/images/teams/ljh.jpg" alt="图片5">
     </div>
-
+    <div class="container2">
+        <img src="/images/teams/ljh.jpg" alt="图片1">
+        <img src="/images/teams/jl.jpg" alt="图片2">
+        <img src="/images/teams/hk.jpg" alt="图片3">
+        <img src="/images/teams/blank.jpg" alt="图片3">
+    </div>
 
 ## Photos
 
