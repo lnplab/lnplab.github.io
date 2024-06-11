@@ -36,7 +36,8 @@ layout: page
 </body>
 
 ---
-<h1>Highlight</h1>
+<h1 style="font-size: 32px;">Highlight</h1>
+
 
 <head>
     <meta charset="UTF-8">
