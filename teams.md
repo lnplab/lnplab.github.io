@@ -4,9 +4,8 @@ permalink: /teams/index.html
 title: Team
 ---
 
-<h1 style="font-size: 32px;">PRINCIPAL INVESTIGATOR</h1>>
+<h1 style="font-size: 32px;">PRINCIPAL INVESTIGATOR</h1>
 <head>
-    <title>PRINCIPAL INVESTIGATOR</title>
     <style>
         .container {
             display: flex;
@@ -14,9 +13,9 @@ title: Team
         }
         .container img {
             width: 100%;
-            max-width: 350px; /* 调整图像的最大宽度 */
+            max-width: 320px; /* 调整图像的最大宽度 */
             height: auto;
-            margin-right: 30px; /* 图片与文字之间的间距 */
+            margin-right: 20px; /* 图片与文字之间的间距 */
         }
         .container .text {
             max-width: 600px; /* 文字部分的最大宽度 */
