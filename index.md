@@ -1,6 +1,7 @@
 ---
 layout: page
 ---
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -8,32 +9,31 @@ layout: page
     <style>
         .content {
             display: flex;
-            align-items: center;
+            flex-direction: column;
+            align-items: flex-start;
             margin: 20px;
+            position: relative;
         }
         .content img {
-            max-width: 50%; /* Ensure the image takes up to 50% of the container */
-            height: auto;
+            width: 30%; /* Set the width of the image */
+            height: auto; /* Maintain aspect ratio */
+            float: right; /* Float the image to the right */
             margin-left: 20px; /* Add some space between the image and the text */
+            margin-bottom: 20px; /* Add some space below the image */
         }
         .content .text {
-            max-width: 50%; /* Ensure the text takes up to 50% of the container */
+            width: 100%; /* Ensure the text takes full width */
         }
     </style>
 </head>
 <body>
     <div class="content">
+        <img src="/images/teams/group1.jpg" alt="Research Team">
         <div class="text">
             <p>We are dedicated to developing nucleic acid-based therapies, achieving this goal through the synthesis of lipid nanoparticles. Our research team, composed of passionate and innovative scientists, focuses on exploring cutting-edge biotechnology to advance medical progress. Whether it's RNA vaccines, gene therapy, or other nucleic acid drugs, we are constantly striving to contribute to improving human health. Visit our lab's homepage to learn more about our latest research developments and achievements.</p>
         </div>
-        <img src="/images/teams/group1.jpg" alt="Research Team">
     </div>
 </body>
-
-
-
-
-
 
 ---
 <h1>Highlight</h1>

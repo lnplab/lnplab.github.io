@@ -34,7 +34,7 @@ title: Team
         <div class="text">
             <h1>Min Qiu</h1>
             <p>Human Phenome Institute, Fudan University</p> 
-            <p> Member, mRNA Innovation and Translation Center</p>
+            <p>Member, mRNA Innovation and Translation Center</p>
         </div>
     </div>
 </body>
@@ -66,9 +66,9 @@ Min Qiu is a principal investigator in the Human Phenome Institute at Fudan Univ
         <img src="/images/teams/ljh.jpg" alt="图片5">
     </div>
 
----
 
 ## Photos
+
 <div>
 <img src="/images/teams/group1.jpg" alt="图片1">
 </div>
