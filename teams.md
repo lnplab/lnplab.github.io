@@ -19,7 +19,7 @@ title: Team
         }
         .container .text {
             max-width: 700px; /* 文字部分的最大宽度 */
-            margin-bottom: 120px;
+            margin-bottom: 80px;
             font-size: 19px; /* 设置文字的大小 */
         }
         .container .text h1 {
