@@ -27,6 +27,9 @@ layout: page
     </style>
 </head>
 <body>
+    <div>
+            <img src="/images/logo.jpg" alt="Research Team">
+    </div>>
     <div class="content">
         <img src="/images/teams/group1.jpg" alt="Research Team">
         <div class="text">
