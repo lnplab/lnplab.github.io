@@ -27,8 +27,10 @@ layout: page
     </style>
 </head>
 <body>
+    <div>
+            <img src="/images/logo.png" alt="Research Team">
+    </div>
     <div class="content">
-        <img src="/images/teams/group1.jpg" alt="Research Team">
         <div class="text">
             <p>We are dedicated to developing nucleic acid-based therapies, achieving this goal through the synthesis of lipid nanoparticles. Our research team, composed of passionate and innovative scientists, focuses on exploring cutting-edge biotechnology to advance medical progress. Whether it's RNA vaccines, gene therapy, or other nucleic acid drugs, we are constantly striving to contribute to improving human health. Visit our lab's homepage to learn more about our latest research developments and achievements.</p>
         </div>
