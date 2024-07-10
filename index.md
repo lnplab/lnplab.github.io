@@ -32,7 +32,7 @@ layout: page
     </div>
     <div class="content">
         <div class="text">
-            <p>We are dedicated to developing nucleic acid-based therapies, achieving this goal through the synthesis of lipid nanoparticles. Our research team, composed of passionate and innovative scientists, focuses on exploring cutting-edge biotechnology to advance medical progress. Whether it's RNA vaccines, gene therapy, or other nucleic acid drugs, we are constantly striving to contribute to improving human health. Visit our lab's homepage to learn more about our latest research developments and achievements.</p>
+            <p>The Qiu Lab at Fudan University is dedicated to developing state-of-the-art tissue- and cell-specific lipid nanoparticles to improve the therapeutic efficacy of RNA medicines in vaccines, cellular immunotherapy, and gene editing.</p>
         </div>
     </div>
 </body>
