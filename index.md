@@ -38,7 +38,7 @@ layout: page
 </body>
 
 ---
-<h1 style="font-size: 32px;">Highlight</h1>
+<h1 style="font-size: 32px;">Research Highlight</h1>
 
 
 <head>

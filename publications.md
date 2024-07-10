@@ -10,7 +10,6 @@ title: Publication
 <head>
     <style>
         body {
-            font-family: Arial, sans-serif;
             margin: 20px;
         }
         .publication-list {
